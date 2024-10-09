@@ -8,9 +8,7 @@ from pywinauto import Application
 import pygetwindow as gw
 
 
-# Função para abrir o Notepad e trazê-lo para frente (desminimizar)
 def open_valorant():
-    # Obter a janela do Notepad (título padrão)
     valorant_window = gw.getWindowsWithTitle('VALORANT')[0]  # Título da janela padrão
 
     # Restaurar a janela se estiver minimizada
