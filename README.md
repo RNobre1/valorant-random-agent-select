@@ -1,3 +1,8 @@
+[![Traduzir para Português](https://img.shields.io/badge/translate-portuguese-blue)](https://translate.google.com/translate?sl=auto&tl=pt&u=https://github.com/RNobre1/valorant-random-agent-select)
+
+[![Translate to English](https://img.shields.io/badge/translate-english-blue)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/RNobre1/valorant-random-agent-select)
+
+
 # Valorant Random Agent Select 🎮
 
 Este projeto é um script automatizado que seleciona de forma aleatória um agente em diferentes classes (Iniciador, Duelista, Controlador ou Sentinela) no jogo **Valorant**, utilizando as bibliotecas `pyautogui` e `pygetwindow`. O script simula cliques e movimentos do mouse para interagir com a interface do jogo, escolhendo um agente de acordo com a função sorteada.
@@ -62,7 +67,3 @@ O script irá automaticamente:
 ## 🛡️ Avisos de Segurança
 
 Este script interage diretamente com a interface do Valorant, portanto, use-o por sua própria conta e risco. Certifique-se de que ele não viola as políticas da Riot Games.
-
-## 🌐 Versão em Inglês
-
-[**Switch to English**](#)
